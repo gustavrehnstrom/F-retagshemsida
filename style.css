@@ -173,3 +173,13 @@ main {
 .kontakt p {
   padding: 3px;
 }
+
+.karta {
+  outline: solid;
+  outline-color: orange;
+}
+
+.personal img {
+  outline-style: solid;
+  outline-color: orange;
+}
